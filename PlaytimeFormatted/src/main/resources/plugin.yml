@@ -1,0 +1,8 @@
+name: PlaytimeFormatted
+version: 1.0.0
+main: de.playtime.PlaytimeFormatted
+api-version: '26.2'
+author: ServerAdmin
+description: Formatted Minecraft playtime PlaceholderAPI placeholder.
+depend:
+  - PlaceholderAPI
